@@ -20,7 +20,7 @@ c. how you would interpret the results and provide recommendations to the city o
 Ultimate is interested in predicting rider retention. To help explore this question, a sample dataset of a cohort of users who signed up for an Ultimate account in January 2014 were provided. Data cleaning, exploratory analysis, and visualizations were implemented. Predictive models were built and evaluated and compared each other. The best predictors for retention were discussed, and suggestions to operationalize those insights to help Ultimate were offered.
 
 
-The following list includes the topics:
+## The following list includes the topics:
 - datetime
 - data cleaning
 - EDA (visualization)
